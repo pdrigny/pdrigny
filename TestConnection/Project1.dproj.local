@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/25 17:14:29.000.774,=E:\CodeSources\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/08/31 15:57:10.000.427,=E:\CodeSources\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/09/02 17:11:07.000.542,=E:\CodeSources\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/09/02 17:32:45.000.305,E:\CodeSources\Delphi\Unit1.pas=E:\CodeSources\Delphi\TestConnection\UTestConnection.pas</Transaction>
+    <Transaction>2021/09/02 17:32:45.000.305,E:\CodeSources\Delphi\Unit1.fmx=E:\CodeSources\Delphi\TestConnection\UTestConnection.fmx</Transaction>
+    <Transaction>2021/09/02 17:32:48.000.901,E:\CodeSources\Delphi\Project1.dproj=E:\CodeSources\Delphi\TestConnection\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
